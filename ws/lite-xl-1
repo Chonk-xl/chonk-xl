@@ -1,1 +1,0 @@
-return { path = "/home/luke/.config/lite-xl", documents = {["views"]={[1]={["filename"]="lsp.lua",["text"]=false,["active"]=false,["selection"]={[1]=22,[2]=1,[3]=22,[4]=1},["type"]="doc",["scroll"]={["y"]=0,["x"]=0}}},["type"]="leaf",["active_view"]=1}, directories = {} }
